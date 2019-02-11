@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOBin", "IOBin\IOBin.csproj", "{95B20B03-1E48-4CD3-B282-2434D027D9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bin", "Bin\Bin.csproj", "{042B6A53-D5D0-41AE-9CBA-40C4B913370D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesTool", "AesTool\AesTool.csproj", "{DBCFC6DC-7F51-4151-8937-3AA74134DEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B20B03-1E48-4CD3-B282-2434D027D9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B20B03-1E48-4CD3-B282-2434D027D9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B20B03-1E48-4CD3-B282-2434D027D9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B20B03-1E48-4CD3-B282-2434D027D9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042B6A53-D5D0-41AE-9CBA-40C4B913370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042B6A53-D5D0-41AE-9CBA-40C4B913370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042B6A53-D5D0-41AE-9CBA-40C4B913370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042B6A53-D5D0-41AE-9CBA-40C4B913370D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCFC6DC-7F51-4151-8937-3AA74134DEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCFC6DC-7F51-4151-8937-3AA74134DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCFC6DC-7F51-4151-8937-3AA74134DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCFC6DC-7F51-4151-8937-3AA74134DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
